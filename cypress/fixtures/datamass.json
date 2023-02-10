@@ -1,0 +1,19 @@
+{
+    "name":"Maycon",
+    "lastname":"Costa",
+    "email":"maycon_vitor@mailinator.com",
+    "password":"12345678",
+    "title": "Mr",
+    "birthday":"6",
+    "birthdaymonth":"12",
+    "birthdayyear":"1992",
+    "company":"Solutions Soft",
+    "adressprimary":"Rua Maria Emilia Boeckmann",
+    "adresssecundary":"Numer 1017, torre 10. apt 200",
+    "country":"United States",
+    "state":"Califónia",
+    "city":"Los Angeles",
+    "zipcode":"12323535",
+    "mobilenumber":"81 99836-6738"
+   
+}
