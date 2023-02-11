@@ -12,6 +12,6 @@ module.exports = defineConfig({
       apiUrl:'https://automationexercise.com/api'
     },
 
-   // viewportWidth: 1920,viewportHeight: 1080,
+    viewportWidth: 1920,viewportHeight: 1080,
   },
 });

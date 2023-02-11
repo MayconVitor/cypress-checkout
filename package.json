@@ -7,10 +7,5 @@
   "license": "MIT",
   "devDependencies": {
     "cypress": "12.2.0"
-  },
-  "scripts":{
-    "cy:open": "yarn cypress open",
-    "cy:open:mobile":" yarn cypress open --config viewportwidth=410 viewportheight=860",
-    "test":"cypress run"
   }
 }
