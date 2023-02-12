@@ -6,6 +6,7 @@ on:
       spec:
         description: Run by cypress comman line
         default: cypress/e2e/*
+        
 jobs:
   cypress-e2e-eletron:
     runs-on: ubuntu-lastest
