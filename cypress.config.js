@@ -1,8 +1,9 @@
 const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
+  
   projectId: 'ky8zo5',
-  e2e: {
+  e2e: { 
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
@@ -13,7 +14,6 @@ module.exports = defineConfig({
       apiUrl:'https://automationexercise.com/api'
     },
 
-    viewportWidth: 1920,
-    viewportHeight: 1080
-  
+    viewportWidth: 1920,viewportHeight: 1080
+  },
 });
