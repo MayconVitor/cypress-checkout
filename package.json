@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "projeto de testes de checkout",
   "main": "index.js",
+  "scripts": {
+    "cypress:test": "yarn cypress run",
+    "cypress:gui": "yarn cypress open"
+  },
   "author": "maycon vitor",
   "license": "MIT",
   "devDependencies": {
