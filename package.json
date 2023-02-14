@@ -6,6 +6,6 @@
   "author": "maycon vitor",
   "license": "MIT",
   "devDependencies": {
-    "cypress": "12.2.0"
+    "cypress": "12.5.1"
   }
 }
